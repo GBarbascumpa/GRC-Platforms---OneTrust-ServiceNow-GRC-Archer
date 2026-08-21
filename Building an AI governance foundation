@@ -17,6 +17,20 @@ That's why inventory comes first, not last: 1️⃣ discover every AI use case �
 
 AI is already in use across the business - but no one has the full picture. 🧩 One team is using an AI tool nobody signed off on 🤖, another has a pilot running with no risk review 📉, and leadership finds out about half of it secondhand or not at all. 🙈
 
-There's no single source of truth 📂, no consistent process for evaluating a new AI use case before it goes live ⛔, and no clear owner accountable for any of it. 👤❓ Policies, if they exist, live in disconnected documents that nobody actually checks against real usage. 📄💨
+There's no single source of truth 📂, no consistent process for evaluating a new AI use case before it goes live ⛔, and no clear owner accountable for any of it. 
+👤❓ Policies, if they exist, live in disconnected documents that nobody actually checks against real usage. 📄💨
 
 This isn't a failure of intent — it's what happens by default when AI adoption outpaces governance. 🏃💨🐢 The fix isn't a single policy or a single tool; it's the shift from scattered awareness to a foundational inventory — the first deliberate step toward knowing what exists before trying to control it. 🔍➡️📋
+
+do the same for OneTrust makes governance proactive
+
+✅ OneTrust makes governance proactive — the shift from finding problems after the fact to catching them before they start. ⏱️
+
+Instead of governance kicking in only after an AI system is already live — or worse, after something goes wrong 
+🚨 — OneTrust builds the checkpoints in from the beginning. New AI use cases get logged and risk-classified at intake 📥⚠️, not discovered months later during an audit scramble. 🔦
+
+Assessments and approvals happen as part of the workflow itself 🔄, not as a separate, easy-to-skip step — so risk gets flagged and routed to the right owner automatically, instead of depending on someone remembering to raise it. 🙋‍♀️➡️👥
+
+Ongoing monitoring means governance doesn't stop once a system is approved 👀 — changes in how an AI tool is used, or shifts in its risk profile, get caught continuously rather than at the next scheduled review. 🔁
+
+This is the real difference between reactive compliance and proactive governance: one responds to incidents, the other prevents them from becoming incidents in the first place. 🛡️
