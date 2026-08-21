@@ -12,3 +12,11 @@ This is the starting point of any AI governance program: a complete, centralized
 Without this inventory, governance is guesswork. You can't assess risk on a system you don't know about ⚠️, you can't apply the right controls to something that isn't tracked 🔐, and you can't prove compliance for AI use you haven't documented 📄.
 
 That's why inventory comes first, not last: 1️⃣ discover every AI use case → 2️⃣ classify it by risk and purpose → 3️⃣ assign ownership and accountability → 4️⃣ layer in the controls that actually apply to it. Everything downstream — risk scoring, policy enforcement, audit readiness — depends on this foundation being complete and current. ✅
+
+🚨 Stage zero: governance is scattered - before any formal program exists, this is where most organizations actually are. 🌀
+
+AI is already in use across the business - but no one has the full picture. 🧩 One team is using an AI tool nobody signed off on 🤖, another has a pilot running with no risk review 📉, and leadership finds out about half of it secondhand or not at all. 🙈
+
+There's no single source of truth 📂, no consistent process for evaluating a new AI use case before it goes live ⛔, and no clear owner accountable for any of it. 👤❓ Policies, if they exist, live in disconnected documents that nobody actually checks against real usage. 📄💨
+
+This isn't a failure of intent — it's what happens by default when AI adoption outpaces governance. 🏃💨🐢 The fix isn't a single policy or a single tool; it's the shift from scattered awareness to a foundational inventory — the first deliberate step toward knowing what exists before trying to control it. 🔍➡️📋
