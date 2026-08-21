@@ -31,6 +31,21 @@ Instead of governance kicking in only after an AI system is already live — or 
 
 Assessments and approvals happen as part of the workflow itself 🔄, not as a separate, easy-to-skip step — so risk gets flagged and routed to the right owner automatically, instead of depending on someone remembering to raise it. 🙋‍♀️➡️👥
 
-Ongoing monitoring means governance doesn't stop once a system is approved 👀 — changes in how an AI tool is used, or shifts in its risk profile, get caught continuously rather than at the next scheduled review. 🔁
 
-This is the real difference between reactive compliance and proactive governance: one responds to incidents, the other prevents them from becoming incidents in the first place. 🛡️
+🗣️ Speaking the language of standards is crucial — even at stage zero — because "we should govern AI better" isn't a plan; a shared vocabulary is. 📖
+
+At stage zero, before any formal process exists, teams often talk past each other. 🙊 One person means "safe" as in "won't leak data" 🔐, another means "safe" as in 
+"won't produce biased output" ⚖️, and neither is wrong - they're just using the same word for different risks. Without a common framework, every conversation about AI 
+risk starts from scratch. 🔄
+
+This is where naming real standards early — NIST AI RMF, ISO/IEC 42001, the EU AI Act 📜 — does more than sound credible. It gives scattered teams a shared reference point:
+a common definition of risk tiers, a common structure for documentation, a common language legal, technical, and business stakeholders can all actually use together. 🤝
+
+Even before a single tool or workflow is in place, grounding conversations in established standards prevents governance from being reinvented ad hoc by whoever's in the 
+room. 🧭 It's the difference between "let's figure out AI risk ourselves" and "let's apply frameworks that regulators, auditors, and peer organizations already recognize." ✅
+
+Ongoing monitoring means governance doesn't stop once a system is approved 👀 — changes in how an AI tool is used, or shifts in its risk profile, get caught continuously 
+rather than at the next scheduled review. 🔁
+
+This is the real difference between reactive compliance and proactive governance: one responds to incidents, the other prevents them from becoming incidents in the first 
+place. 🛡️
